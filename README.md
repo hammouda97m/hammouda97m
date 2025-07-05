@@ -21,9 +21,9 @@
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=hammouda97m&show_icons=true&theme=dark)
 
 ## 📫 **Let's Connect!**
-- 💼 **LinkedIn:** [Your LinkedIn]
-- 🐦 **Twitter:** [Your Twitter]
-- 📧 **Email:** [your.email@example.com]
+- 💼 **LinkedIn:** NONE YET
+- 🐦 **Twitter:** NONE YET
+- 📧 **Email:** contact@moeyassin.com
 
 ---
 💻 **"Code is poetry in motion"** ✨
